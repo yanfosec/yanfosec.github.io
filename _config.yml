@@ -25,6 +25,7 @@ github_username:  yanfosec
 # Build settings
 markdown: kramdown
 theme: minima
+permalinks: pretty
 plugins:
   - jekyll-feed
   - jekyll-admin
